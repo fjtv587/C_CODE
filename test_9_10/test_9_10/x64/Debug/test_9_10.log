@@ -1,0 +1,4 @@
+﻿  test_9_10.c
+C:\Code\2023_code\test_9_10\test_9_10\test_9_10.c(49,8): warning C4013: “strand”未定义；假设外部返回 int
+test_9_10.obj : error LNK2019: 无法解析的外部符号 strand，函数 main 中引用了该符号
+C:\Code\2023_code\test_9_10\x64\Debug\test_9_10.exe : fatal error LNK1120: 1 个无法解析的外部命令
